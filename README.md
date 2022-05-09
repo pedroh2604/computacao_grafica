@@ -15,4 +15,5 @@ Pedro Silva <br>
 - Faça a compilação do programa:
     - `g++ main.cpp -o helloTriangle glad.o -lglfw -ldl`
 - Execute o programa
-    - `./helloTriangle`  
+    - `./helloTriangle`
+- [Captura de tela](https://drive.google.com/file/d/1ALOuaXJpGXqMfhy_ls4_8Pk0tkjApoX3/view?usp=sharing) do programa em execução
